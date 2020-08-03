@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5665" started-at="2020-08-01T15:18:34Z" finished-at="2020-08-01T15:18:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5665" started-at="2020-08-01T15:18:34Z" finished-at="2020-08-01T15:18:40Z">
+      <class name="getRequest.GetData">
+        <test-method status="PASS" signature="testResponsecode()[pri:1, instance:getRequest.GetData@59fa1d9b]" name="testResponsecode" duration-ms="5619" started-at="2020-08-01T23:18:34Z" description="This Testcase will get Response code" finished-at="2020-08-01T23:18:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponsecode -->
+      </class> <!-- getRequest.GetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

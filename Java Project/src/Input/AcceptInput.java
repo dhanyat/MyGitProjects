@@ -11,6 +11,8 @@ public class AcceptInput {
 		Scanner userInput = new Scanner(System.in);
 		System.out.println("Learning Java from?");
 		String website = userInput.nextLine();
+		System.out.println("Name");
+		String website1 = userInput.nextLine();
 		userInput.close();
 		System.out.println("I am learning Java from "+ website);
 		
