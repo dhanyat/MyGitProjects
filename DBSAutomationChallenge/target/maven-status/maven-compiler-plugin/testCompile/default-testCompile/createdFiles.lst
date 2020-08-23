@@ -1,0 +1,5 @@
+seleniumTests\E2E_Test.class
+runners\TestRunner.class
+stepDefinitions\Steps.class
+seleniumTests\ExcelreadandWrite.class
+seleniumTests\Screenshot.class
