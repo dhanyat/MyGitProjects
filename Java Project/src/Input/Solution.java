@@ -11,6 +11,7 @@ import java.util.regex.*;
 public class Solution {
 
     // Complete the lonelyinteger function below.
+	//new comments in Java
     public static int lonelyinteger(int[] a) {
 		return 0;
 
